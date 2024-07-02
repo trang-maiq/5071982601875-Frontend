@@ -1,0 +1,67 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton",
+      "variables": {
+        "eventDescription": "Join us in Denver from June 7 – 9 to see what’s coming next.",
+        "eventName": "Meetup 2025",
+        "linkText": "Register Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world of cutting-edge tech insights, vibrant discussions, and non-stop learning.",
+        "title": "Yay: Sparking Innovation Through Shared Knowledge!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into a world of cutting-edge tech insights, vibrant discussions, and non-stop learning.",
+        "title": "Yay: Sparking Innovation Through Shared Knowledge!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into a world of cutting-edge tech insights, vibrant discussions, and non-stop learning.",
+        "title": "Yay: Sparking Innovation Through Shared Knowledge!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world of cutting-edge tech insights, vibrant discussions, and non-stop learning.",
+        "title": "Yay: Sparking Innovation Through Shared Knowledge!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into a world of cutting-edge tech insights, vibrant discussions, and non-stop learning.",
+        "title": "Yay: Sparking Innovation Through Shared Knowledge!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "description": "Subscribe to our newsletter and stay updated with the latest tech news, in-depth articles, and exclusive insights from the industry leaders. Fresh content delivered directly to your inbox!",
+        "emailLabel": "Your Email Address",
+        "heading": "Never Miss an Update from Technical Sharing Blog!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world of cutting-edge tech insights, vibrant discussions, and non-stop learning.",
+        "title": "Yay: Sparking Innovation Through Shared Knowledge!"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Sparking Innovation Through Shared Knowledge!",
+  "subtitle": "Dive into a world of cutting-edge tech insights, vibrant discussions, and non-stop learning."
+}
